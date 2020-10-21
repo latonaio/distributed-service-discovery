@@ -1,0 +1,13 @@
+[Unit]
+Description=Distributed-Service-Discovery
+After=multi-user.target
+
+[Service]
+ExecStart=/usr/local/bin/distributed-service-discovery -d
+Restart=no
+Type=simple
+User=root
+Group=root
+
+[Install]
+WantedBy=multi-user.target
