@@ -1,6 +1,6 @@
 module bitbucket.org/latonaio/distributed-service-discovery
 
-go 1.14
+go 1.17
 
 require (
 	github.com/avast/retry-go v2.6.0+incompatible

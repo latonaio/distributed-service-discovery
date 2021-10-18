@@ -1,3 +1,6 @@
+# distributed-service-discovery  
+distributed-service-discoveryは、エッジネットワーク上のノードの死活管理を行うマイクロサービスです。
+
 ## セットアップ ##
 [1] マウントされた該当ストレージ領域における任意のディレクトリで、本マイクロサービスをクローンする
 
