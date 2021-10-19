@@ -5,8 +5,8 @@ distributed-service-discovery が OSレイヤーで稼働する理由は、エ�
 
 ## 依存関係
 
-- gossip-propagation-d  
-- titaniadb-sentinel  
+- [gossip-propagation-d](https://github.com/latonaio/gossip-propagation-d)    
+- [titaniadb-sentinel](https://github.com/latonaio/titaniadb-sentinel)  
 
 ## セットアップ ##
 [1] マウントされた該当ストレージ領域における任意のディレクトリで、本マイクロサービスをクローンします
